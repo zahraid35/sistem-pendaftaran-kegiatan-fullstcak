@@ -15,7 +15,7 @@ sistem-pendaftaran-kegiatan/
 │   │   └── index.css    # Konfigurasi Tailwind CSS
 │   ├── package.json     # Dependensi Frontend
 │   └── public/
-├── screenshots/
+├── screenshots/         # Dokumentasi screenshots
 ├── .gitignore
 └── README.md            # Dokumentasi project
 ```
