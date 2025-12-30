@@ -3,18 +3,22 @@
 Projek ini adalah sistem manajemen pendaftaran peserta IT-CAMP 2025 yang mencakup **Landing Page** untuk pendaftar dan **Dashboard Admin** untuk pengelolaan data peserta.
 
 ## 📂 Struktur Project
+```text
 sistem-pendaftaran-kegiatan/
 ├── backend/
 │   ├── server.js        # File utama server Express
 │   ├── package.json     # Dependensi Backend
-│   └── database/        # (Opsional) Tempat simpan file .sql
+│   └── database/        # Tempat simpan file .sql
 ├── frontend/
 │   ├── src/
 │   │   ├── App.js       # File utama React (UI & Logic)
 │   │   └── index.css    # Konfigurasi Tailwind CSS
 │   ├── package.json     # Dependensi Frontend
 │   └── public/
+├── screenshots/
+├── .gitignore
 └── README.md            # Dokumentasi project
+```
 
 ## Fitur Utama
 - **Landing Page**: Informasi program dan form pendaftaran peserta.
