@@ -52,3 +52,21 @@ Untuk masuk ke panel admin:
 - Buka URL: `http://localhost:3000?admin=true`
 - Klik tombol **Panel Admin** di navbar.
 - Masukkan username & password yang ada di tabel `users`.
+
+## 📷 Dokumentasi Aplikasi
+
+### Landing Page
+![Landing Page](./screenshots/landingpage1.png)
+![Dashboard Admin](./screenshots/landingpage2.png)
+
+### Form Pendaftaran
+![Form Pendaftaran](./screenshots/form-pendaftaran.png)
+
+### Landing Page beserta button Panel Admin di Navbar
+![Form Pendaftaran](./screenshots/landingpage-admin.png)
+
+### Form Login Admin
+![Form Pendaftaran](./screenshots/formlogin-admin.png)
+
+### Dashboard Admin
+![Form Pendaftaran](./screenshots/dashboard-admin.png)
